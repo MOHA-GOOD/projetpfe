@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "internships": "Internships",
+    "dashboard": "Dashboard",
+    "logout": "Logout",
+    "login": "Log in",
+    "signup": "Sign up"
+  },
+  "home": {
+    "title": "Find your dream internship today",
+    "subtitle": "Connect with top companies looking for fresh talent. Whether you're a student looking for experience or a company searching for the next star intern, we've got you covered.",
+    "get_started": "Get started",
+    "browse_internships": "Browse Internships",
+    "stats_title": "Platform Stats",
+    "stats_headline": "Everything you need to succeed",
+    "stats_desc": "Thousands of students have already found their perfect internship matches using our platform. Join them today.",
+    "stats_students": "Students",
+    "stats_students_desc": "10,000+ registered students actively looking for internships.",
+    "stats_companies": "Companies",
+    "stats_companies_desc": "500+ verified companies posting opportunities daily.",
+    "stats_internships": "Internships",
+    "stats_internships_desc": "2,500+ active internship listings across 50 categories."
+  },
+  "auth": {
+    "login_title": "Sign in to your account",
+    "register_title": "Create your account",
+    "email": "Email address",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "full_name_company": "Full Name / Company Name",
+    "role_label": "I am a",
+    "role_student": "Student",
+    "role_company": "Company",
+    "sign_in_btn": "Sign in",
+    "signing_in": "Signing in...",
+    "sign_up_btn": "Sign up",
+    "creating_account": "Creating account...",
+    "no_account": "Not a member?",
+    "has_account": "Already a member?"
+  }
+}

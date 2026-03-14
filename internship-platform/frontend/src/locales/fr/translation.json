@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "internships": "Stages",
+    "dashboard": "Tableau de bord",
+    "logout": "Déconnexion",
+    "login": "Connexion",
+    "signup": "S'inscrire"
+  },
+  "home": {
+    "title": "Trouvez le stage de vos rêves aujourd'hui",
+    "subtitle": "Connectez-vous avec les meilleures entreprises à la recherche de nouveaux talents. Que vous soyez un étudiant à la recherche d'expérience ou une entreprise à la recherche de son futur stagiaire star, nous sommes là pour vous.",
+    "get_started": "Commencer",
+    "browse_internships": "Parcourir les stages",
+    "stats_title": "Statistiques de la plateforme",
+    "stats_headline": "Tout ce dont vous avez besoin pour réussir",
+    "stats_desc": "Des milliers d'étudiants ont déjà trouvé leur stage idéal grâce à notre plateforme. Rejoignez-les dès aujourd'hui.",
+    "stats_students": "Étudiants",
+    "stats_students_desc": "Plus de 10 000 étudiants inscrits recherchent activement des stages.",
+    "stats_companies": "Entreprises",
+    "stats_companies_desc": "Plus de 500 entreprises vérifiées publient des opportunités quotidiennement.",
+    "stats_internships": "Stages",
+    "stats_internships_desc": "Plus de 2 500 offres de stages actives dans 50 catégories."
+  },
+  "auth": {
+    "login_title": "Connectez-vous à votre compte",
+    "register_title": "Créez votre compte",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "confirm_password": "Confirmer le mot de passe",
+    "full_name_company": "Nom complet / Nom de l'entreprise",
+    "role_label": "Je suis un",
+    "role_student": "Étudiant",
+    "role_company": "Entreprise",
+    "sign_in_btn": "Se connecter",
+    "signing_in": "Connexion en cours...",
+    "sign_up_btn": "S'inscrire",
+    "creating_account": "Création du compte...",
+    "no_account": "Pas encore membre ?",
+    "has_account": "Déjà membre ?"
+  }
+}
